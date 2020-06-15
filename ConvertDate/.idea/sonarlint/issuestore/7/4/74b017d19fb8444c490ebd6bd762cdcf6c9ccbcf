@@ -1,0 +1,12 @@
+
+u
+java:S1104-"SMake seconds a static final constant or non-public and provide accessors if needed.(²‰Œ…ùÿÿÿÿ8îø¤Ãª.
+m
+java:S1104"QMake posts a static final constant or non-public and provide accessors if needed.(‚¦¾U8ëÂª.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ…à”ûÿÿÿÿ
+{
+java:S1104Q"YMake publishedDate a static final constant or non-public and provide accessors if needed.(ç…½§ıÿÿÿÿ8îø¤Ãª.
+q
+java:S1104)"UMake published a static final constant or non-public and provide accessors if needed.(ÁËB8Ï…†Ãª.
+t
+java:S1104."WMake nanoseconds a static final constant or non-public and provide accessors if needed.(âò€î8îø¤Ãª.

@@ -1,0 +1,37 @@
+
+T
+java:S1135<"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8‹äÂª.
+T
+java:S1128"7Remove this unused import 'com.google.gson.JsonObject'.(µÊ´½8Óÿ¦Ãª.
+f
+java:S2147;"DCombine this catch with the one at line 53, which has the same body.(âÃƒŠıÿÿÿÿ8‹äÂª.
+N
+java:S1128"1Remove this unused import 'com.google.gson.Gson'.(–§8Óÿ¦Ãª.
+E
+java:S1148="#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‹äÂª.
+Y
+java:S1128"7Remove this unused import 'org.json.simple.JSONObject'.(‚ƒç‘ÿÿÿÿÿ8ôÚÒÂª.
+P
+java:S1128	".Remove this unused import 'java.time.Instant'.(Â‚éñÿÿÿÿÿ8Óÿ¦Ãª.
+a
+java:S21478"DCombine this catch with the one at line 53, which has the same body.(ï­£Ä8‹äÂª.
+T
+java:S11356"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8‹äÂª.
+T
+java:S11359"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8‹äÂª.
+E
+java:S11487"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‹äÂª.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ…à”ûÿÿÿÿ8ôÚÒÂª.
+L
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8ôÚÒÂª.
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8‚›£Ãª.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ì¢È®ùÿÿÿÿ8‹äÂª.
+T
+java:S18544"7Remove this useless assignment to local variable "obj".(ğÄ×ã8‹äÂª.
+E
+java:S14814"(Remove this unused "obj" local variable.(ğÄ×ã8‹äÂª.
+E
+java:S1148:"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‹äÂª.
+X
+java:S1128"6Remove this unused import 'org.json.simple.JSONArray'.(àĞ›¢şÿÿÿÿ8ôÚÒÂª.
